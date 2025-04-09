@@ -1,6 +1,6 @@
 # Project-Assignment-04
 
-📧 *Contact:* [email](maryammalikawan5@gmail.com)  
+📧 *Contact:* maryammalikawan5@gmail.com
 🔗 *GitHub:* [github link](https://github.com/maryamshakeel22)  
 🔗 *LinkedIn:* [linkedin](https://www.linkedin.com/in/maryam-shakeel-5720a12b5/)  
 ---
