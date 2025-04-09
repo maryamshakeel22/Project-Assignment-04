@@ -14,6 +14,7 @@ Welcome to your *Google Colab Projects Hub!* Explore, run, and enjoy learning wi
 | *Rock-Paper-Scissors Game Python Project ✊📄✂* | [Open in Colab](https://colab.research.google.com/drive/17MM0_ml0Rzb6jH-D2z6WIVBT4DAHbyoe?usp=drive_link) | Play the classic game against the computer. Ready for the challenge? |
 | *Hangman Challenge Python Project 🎭* | [Open in Colab](https://colab.research.google.com/drive/1MxndPzVTZIVeoWMYMPhALnXcIRQ_9HmE?usp=drive_link) | Guess the word before you run out of lives in this classic text-based game. |
 | *Countdown Timer Python Project ⏳* | [Open in Colab](https://colab.research.google.com/drive/1bzjKTMiO3A-wHMxJ70O_Z_ZYdotm5stn?usp=drive_link) | A simple countdown timer — enter seconds, hit start, and watch the time tick! |
+| *Password Generator 🔐* | [Open in Colab](https://colab.research.google.com/drive/1GO6GPI4lNaG4EitOXr70QvXLnPyCooiH?usp=drive_link) | Instantly generate secure and random passwords — quick and easy! |
 
 ---
 
